@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stauro16
-- 👀 I’m interested in Data Analysis and Data Engineering
+- 👀 I’m interested in Data Analysis, Data Engineering, Machine Learning, AI and Cloud 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to display my projects here. 
 
